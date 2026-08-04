@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<meta property="og:title" content="입주민 사전점검 가이드">
-<meta property="og:description" content="전문가가 알려주는 신축 아파트 하자 점검 체크리스트">
-<meta property="og:image" content="https://dig22-sudo.github.io/사전점검가이드_OG썸네일.png">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>사전점검 입주민 필수 가이드 v2026 </title>
+<title>사전점검 입주민 필수 가이드 | HomeCheck</title>
+<meta name="description" content="누수·창호 결함·수평 틀어짐까지, 사전점검 당일 실전 체크리스트">
+<meta property="og:type" content="website">
+<meta property="og:title" content="사전점검 입주민 필수 가이드">
+<meta property="og:description" content="누수·창호 결함·수평 틀어짐까지, 사전점검 당일 실전 체크리스트">
+<meta property="og:image" content="https://diqa22-sudo.github.io/-/og-thumbnail.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://diqa22-sudo.github.io/-/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="사전점검 입주민 필수 가이드">
+<meta name="twitter:description" content="누수·창호 결함·수평 틀어짐까지, 사전점검 당일 실전 체크리스트">
+<meta name="twitter:image" content="https://diqa22-sudo.github.io/-/og-thumbnail.png">
 <style>
   @font-face {
     font-family: 'Pretendard';
